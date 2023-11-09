@@ -1,0 +1,4126 @@
+# 아이템
+
+## 고유
+ - Tibault's Will (티볼트의 의지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Banished Lord's Talisman (추방된 군주의 영물)
+   - 클래스 : 
+   - 부위 : 목
+ - Godslayer Crown (신 살해자 왕관)
+   - 클래스 : 
+   - 부위 : 머리
+ - X'Fal's Corroded Signet (크팔의 부식된 인장)
+   - 클래스 : 
+   - 부위 : 반지
+ - Doombringer (궤멸자)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - The Grandfather (한아비)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Andariel's Visage (안다리엘의 두개골)
+   - 클래스 : 
+   - 부위 : 머리
+ - Flickerstep (명멸걸음)
+   - 클래스 : 
+   - 부위 : 발
+ - Raiment of the Infinite (무한의 의복)
+   - 클래스 : 원소술사
+   - 부위 : 몸통
+ - Melted Heart of Selig (셀리그의 녹은 심장)
+   - 클래스 : 
+   - 부위 : 목
+ - Ring of Starless Skies (별 없는 하늘의 반지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Tuskhelm of Joritz the Mighty (위대한 조리츠의 엄니 투구)
+   - 클래스 : 야만용사
+   - 부위 : 머리
+ - The Oculus (망울)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Lidless Wall (각성의 벽)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Tempest Roar (폭풍의 포효)
+   - 클래스 : 드루이드
+   - 부위 : 머리
+ - Harlequin Crest (할리퀸 관모)
+   - 클래스 : 
+   - 부위 : 머리
+ - Penitent Greaves (참회의 경갑)
+   - 클래스 : 
+   - 부위 : 발
+ - Ahavarion, Spear of Lycander (아발리온 - 라이칸더의 창)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Greatstaff of the Crone (마녀의 큰지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Insatiable Fury (만족을 모르는 분노)
+   - 클래스 : 드루이드
+   - 부위 : 몸통
+ - Blood Moon Breeches (핏빛 달의 무릎바지)
+   - 클래스 : 강령술사
+   - 부위 : 다리
+ - Black River (검은 강)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Vasily's Prayer (바실리의 기도)
+   - 클래스 : 드루이드
+   - 부위 : 머리
+ - Hellhammer (지옥망치)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Ring of Mendeln (멘델른의 반지)
+   - 클래스 : 강령술사
+   - 부위 : 반지
+ - Ramaladni's Magnum Opus (라말라드니의 역작)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비,보조 무기
+ - Esadora's Overflowing Cameo (에사도라의 넘실거리는 카메오)
+   - 클래스 : 원소술사
+   - 부위 : 목
+ - Razorplate (서슬판금)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Mad Wolf's Glee (미친 늑대의 환희)
+   - 클래스 : 드루이드
+   - 부위 : 몸통
+ - Deathless Visage (죽음 없는 얼굴)
+   - 클래스 : 강령술사
+   - 부위 : 머리
+ - Esu's Heirloom (에수의 가보)
+   - 클래스 : 원소술사
+   - 부위 : 발
+ - Temerity (만용)
+   - 클래스 : 
+   - 부위 : 다리
+ - Tassets of the Dawning Sky (새벽하늘 무릎받이)
+   - 클래스 : 
+   - 부위 : 다리
+ - Azurewrath (푸른 서슬)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비,보조 무기
+ - Bloodless Scream (피 말리는 비명)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Asheara's Khanjar (아시아라의 칸자르)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Greaves of the Empty Tomb (텅 빈 무덤의 경갑)
+   - 클래스 : 강령술사
+   - 부위 : 발
+ - Condemnation (규탄)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Howl from Below (아래에서 들려오는 울부짖음)
+   - 클래스 : 강령술사
+   - 부위 : 손
+ - Fists of Fate (운명의 주먹)
+   - 클래스 : 
+   - 부위 : 손
+ - Gohr's Devastating Grips (고르의 파멸적인 손 보호구)
+   - 클래스 : 야만용사
+   - 부위 : 손
+ - Overkill (과잉 살상)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Deathspeaker's Pendant (죽음예언자의 펜던트)
+   - 클래스 : 강령술사
+   - 부위 : 목
+ - Mother's Embrace (어머니의 품)
+   - 클래스 : 
+   - 부위 : 반지
+ - Dolmen Stone (고인돌)
+   - 클래스 : 드루이드
+   - 부위 : 목
+ - Blood Artisan's Cuirass (피 장인의 흉갑)
+   - 클래스 : 강령술사
+   - 부위 : 몸통
+ - Flamescar (화염흉터)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Rage of Harrogath (하로가스의 분노)
+   - 클래스 : 야만용사
+   - 부위 : 몸통
+ - Staff of Lam Esen (람 에센의 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Frostburn (서리불꽃)
+   - 클래스 : 
+   - 부위 : 손
+ - Iceheart Brais (얼음심장 브레이스)
+   - 클래스 : 원소술사
+   - 부위 : 다리
+ - Fields of Crimson (심홍색의 전장)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Hunter's Zenith (사냥꾼의 정점)
+   - 클래스 : 드루이드
+   - 부위 : 반지
+ - Grasp of Shadow (그림자의 매듭끈)
+   - 클래스 : 도적
+   - 부위 : 손
+ - Cowl of the Nameless (이름 없는 자의 머리쓰개)
+   - 클래스 : 도적
+   - 부위 : 머리
+ - Word of Hakan (하칸의 말)
+   - 클래스 : 도적
+   - 부위 : 목
+ - The Butcher's Cleaver (도살자의 식칼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Gloves of the Illuminator (계몽자의 장갑)
+   - 클래스 : 원소술사
+   - 부위 : 손
+ - Waxing Gibbous (차오르는 철월)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Ancients' Oath (선조의 맹세)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Blue Rose (푸른 장미)
+   - 클래스 : 원소술사
+   - 부위 : 반지
+ - Skyhunter (하늘사냥꾼)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Soulbrand (영혼 낙인)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Staff of Endless Rage (끝없는 분노의 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Storm's Companion (폭풍의 동료)
+   - 클래스 : 드루이드
+   - 부위 : 다리
+ - Battle Trance (전투 무아지경)
+   - 클래스 : 야만용사
+   - 부위 : 목
+ - Fleshrender (살점 분쇄봉)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Eaglehorn (수리뿔)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - 100,000 Steps (만보)
+   - 클래스 : 야만용사
+   - 부위 : 발
+ - Windforce (바람살)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Eyes in the Dark (어둠 속의 눈)
+   - 클래스 : 도적
+   - 부위 : 다리
+ - Scoundrel's Leathers (건달의 가죽옷)
+   - 클래스 : 도적
+   - 부위 : 몸통
+ - Pact Amulet (서약 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Icy Rib (차가운 갈빗대)
+   - 클래스 : 
+   - 부위 : 
+ - Boost Helm (증강된 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Boost Pants (증강된 바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Boost Dagger (증강된 단검)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Something Super Cool (Something Super Cool)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 7 Cache (영원한 여정 7장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Chapter 1 Reward Cache (1장 보상 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Chapter 2 Reward Cache (2장 보상 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Boost Scythe (증강된 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Rusty Heirloom Dagger (녹슨 가보 단검)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 2 Cache (영원한 여정 2장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 3 Cache (영원한 여정 3장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 4 Cache (영원한 여정 4장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 5 Cache (영원한 여정 5장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 6 Cache (영원한 여정 6장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 8 Cache (영원한 여정 8장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Eternal Journey Chapter 9 Cache (영원한 여정 9장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Boost Staff (증강된 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+
+## 전설
+ - Braggart's Cache (허풍쟁이의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - [PH]Scroll of Fast Growth ([PH]Scroll of Fast Growth)
+   - 클래스 : 
+   - 부위 : 
+ - Runic Gloves (룬새김 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Bone Blade (뼈 칼날)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Lord Zir's Personal Stash (군주 지르의 개인 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Buriza-Do Kyanon (눈보라 포)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Demonblade (악마검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Runic Skullcap (룬새김 두개모)
+   - 클래스 : 
+   - 부위 : 머리
+ - Bonebreaker (뼈파괴자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Greater Midwinter Spoils (상급 한겨울 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Enigma Cube (수수께끼의 함)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Dread Mace (공포 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Obsidian Blade (흑요석 칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Doom Casque (파멸 장식 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Forgotten Soul (잊힌 영혼)
+   - 클래스 : 
+   - 부위 : 
+ - Warlord Greathelm (군장 대형 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Greater Collection of Chaos (혼돈 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Sovereign Helm (군왕 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Primal Chausses (태초의 다리 갑옷)
+   - 클래스 : 
+   - 부위 : 다리
+ - Doom Treads (파멸 발 보호대)
+   - 클래스 : 
+   - 부위 : 발
+ - Runic Mail (룬새김 쇠사슬 갑옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Serpent Stone (구렁이 돌)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Band (가락지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Exceptional Leggings (특출한 각반)
+   - 클래스 : 
+   - 부위 : 다리
+ - Rattling Bones (달그락거리는 뼈)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Weekly Bonus Spoils (주간 보너스 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Serpentine Wand (용틀임 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Vigo's Protecting Amulet (비고의 보호 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Doom Gauntlets (파멸 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Boneweave Armor (골편 방어구)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Greater Collection of Two-Handed Weapons (양손 무기 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Parashu (쐐기 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Royal Boneblade (왕실 뼈칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sovereign Mail (군왕 쇠사슬 갑옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Sovereign Greaves (군왕 경갑)
+   - 클래스 : 
+   - 부위 : 발
+ - Legendary Test Focus (Legendary Test Focus)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Legendary Test Chest (Legendary Test Chest)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Bone Shield (뼈 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Doom Hammer (파멸 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Ashava's Spoils (아샤바의 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Pile of Vampiric Footwear (흡혈귀 신발 더미)
+   - 클래스 : 
+   - 부위 : 
+ - Warlord Boots (군장 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Warlord Leg Plates (군장 다리 판갑)
+   - 클래스 : 
+   - 부위 : 다리
+ - Archon Armor (마인 갑옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Primal Bascinet (태초의 철 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Vajra (바이라)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Flammard (플람바드)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Cranequin (도르래 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Ring (반지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Barbed Sword (미늘 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Penitent Hammer  (참회의 망치 )
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Runic Orb (룬새김 보주)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Boneweave Gauntlets (골편 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Legendary Test Pants (Legendary Test Pants)
+   - 클래스 : 
+   - 부위 : 다리
+ - Skullsplitter (두개골 절단기)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Sacrificial Sickle (희생용 갈고리 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Ghoul King's Blade (구울 왕의 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Cryptic Partizan (수수께끼의 파르티잔)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Torment Staff (고행 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Greater Collection of Amulets (목걸이 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Gargoyle Greatsword (가고일 대검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Death's Reach (죽음의 손길)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Necklace (목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Loop (고리)
+   - 클래스 : 
+   - 부위 : 반지
+ - Blood Seeker's Weapon Cache (피 추적자의 무기 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Archon Greaves (마인 경갑)
+   - 클래스 : 
+   - 부위 : 발
+ - Archon Faulds (마인 대퇴갑)
+   - 클래스 : 
+   - 부위 : 다리
+ - Legendary Test Scythe1H (Legendary Test Scythe1H)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Bow (Legendary Test Bow)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Khanjali (칸잘리)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Spinal Wand (등골 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Cannibal's Chopper (식인종의 절단 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Piercing Wind (살을 에는 바람)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Fulmination (질책)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Jade Greatstaff (비취 큰지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Hell's Fang (지옥의 송곳니)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Choker (목띠)
+   - 클래스 : 
+   - 부위 : 목
+ - Blood Seekers Personal Effects (피 추적자의 개인 소지품)
+   - 클래스 : 
+   - 부위 : 
+ - Blood Bone Leg Reinforcements (피의 뼈 다리 강화 방어구)
+   - 클래스 : 
+   - 부위 : 
+ - Doom Armor (파멸 방어구)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Warlord Plate (군장 판금 갑옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Archon Gauntlets (마인 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Primal Sabatons (태초의 발덮개)
+   - 클래스 : 
+   - 부위 : 발
+ - Jambiya (잠비야)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Toothed Reaper (이빨 달린 저승 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Bullova (수렵 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Siege Bow (공성 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Dread Glaive (공포의 글레이브)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Sparr (반달낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Crystal Greatsword (수정 대검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Cache of Avarice (탐욕의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Grisly Trophy (학살의 증표)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Skull and Steel (두개골과 강철)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Energy Staff (마력 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Cross Axe (십자 도끼)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Rootfist (뿌리주먹)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Totemic Staff (토템 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Moonlight (달빛)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Dragon Spine (용의 척추)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Circle (원)
+   - 클래스 : 
+   - 부위 : 반지
+ - Avarice's Spoils (아바리스의 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Blood Lord's Armory (피의 군주의 무기고)
+   - 클래스 : 
+   - 부위 : 
+ - Boneweave Treads (골편 발 보호대)
+   - 클래스 : 
+   - 부위 : 발
+ - Boneweave Faulds (골편 대퇴갑)
+   - 클래스 : 
+   - 부위 : 다리
+ - Warlord Gauntlets (군장 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Primal Breastplate (태초의 가슴보호갑)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Runic Leggings (룬새김 각반)
+   - 클래스 : 
+   - 부위 : 다리
+ - Legendary Test Mace2H (Legendary Test Mace2H)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Legendary Test Polearm2H (Legendary Test Polearm2H)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Bearded Axe (날 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Sica (시카)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Death Mace (죽음 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Primordial Fetish (태고의 우상)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Spellbinder (주문 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Scorpion (전갈궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Cache of Ornaments (장식품 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Greater Collection of Chestplates (가슴 판갑 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Jade Relic (비취 성물)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Serpent's Bite (구렁이의 이빨)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Twin-blade (쌍날)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Seer's Staff (선견자의 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Serpent's Bone Bow (구렁이의 뼈 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Serrated  Cleaver (톱니 가로날도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Corruption (타락)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Ravager (유린자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Lich Blade (리치 칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Chain (사슬)
+   - 클래스 : 
+   - 부위 : 목
+ - Wandering Death's Spoils (떠도는 죽음의 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Vampiric Signet Cache (흡혈귀 인장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Pack of Ghoul-Skin Gloves (구울 거죽 장갑 꾸러미)
+   - 클래스 : 
+   - 부위 : 
+ - Boneweave Helm (골편 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Gate Guardian Key (문 수호자 열쇠)
+   - 클래스 : 
+   - 부위 : 
+ - Primal Gauntlets (태초의 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Sovereign Vambraces (군왕 완갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Runic Cleats (룬새김 밑창)
+   - 클래스 : 
+   - 부위 : 발
+ - Archon Helm (마인 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Sovereign Tassets (군왕 허벅지 보호구)
+   - 클래스 : 
+   - 부위 : 다리
+ - Exceptional Boots (특출한 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Exceptional Armor (특출한 방어구)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Legendary Test Staff2H (Legendary Test Staff2H)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Dagger1H (Legendary Test Dagger1H)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Bone Wand (뼈 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Molten Lotus (녹아내린 연꽃)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Aegis (이지스)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Sagaris (긴날 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Legendary Test Totem (Legendary Test Totem)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Greater Collection of One-handed Weapons (한손 무기 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Greater Collection of Gauntlets (팔목 장갑 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Greater Collection of Leg Guards (다리 보호구 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Greater Collection of Rings (반지 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Wizard's Touch (마법사의 손길)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Decorated Skull (장식된 두개골)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Rebirth Edge (윤회의 날붙이)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Wolf's Bite (늑대의 이빨)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Cairnstone (무덤돌)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Doom Harbinger  (파멸의 전조 )
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Crate of Vampire Spoils (흡혈귀 전리품 상자)
+   - 클래스 : 
+   - 부위 : 
+ - Doom Cuisses (파멸 다리 가리개)
+   - 클래스 : 
+   - 부위 : 다리
+ - Legendary Test Sword2H (Legendary Test Sword2H)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Legendary Test Axe1H (Legendary Test Axe1H)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Scythe2H (Legendary Test Scythe2H)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Crossbow2H (Legendary Test Crossbow2H)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Warcaster (전쟁 탄노)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Crag Hammer (돌기 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Glorious Staff (명장의 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Greater Collection of Boots (장화 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Bonescale Shield (뼈비늘 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Ritual Dagger (의식용 단검)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Snake Axe (뱀 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Obsidian Totem (흑요석 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Swift Death (쾌속의 죽음)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Horned Cudgel (뿔 달린 방망이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Brilliance (광휘)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Skeletal Protector (해골 수호자)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Spinal (등골)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Amulet (목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Seventh Journey Cache (일곱 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Exceptional Helm (특출한 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Exceptional Gloves (특출한 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Legendary Test Mace1H (Legendary Test Mace1H)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Sword1H (Legendary Test Sword1H)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Axe2H (Legendary Test Axe2H)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Legendary Test Wand (Legendary Test Wand)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Legendary Test Helm (Legendary Test Helm)
+   - 클래스 : 
+   - 부위 : 머리
+ - Legendary Test Boots (Legendary Test Boots)
+   - 클래스 : 
+   - 부위 : 발
+ - Legendary Test Gloves (Legendary Test Gloves)
+   - 클래스 : 
+   - 부위 : 손
+ - Legendary Test Shield (Legendary Test Shield)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Legendary Test Ring (Legendary Test Ring)
+   - 클래스 : 
+   - 부위 : 반지
+ - Legendary Test Amulet (Legendary Test Amulet)
+   - 클래스 : 
+   - 부위 : 목
+ - Khopesh (코페시)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Battle Bow (전투 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - War Crest (전쟁 갈기창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Ancient Effigy (고대 제웅)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Marauder Axe (습격 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Stone Scythe (돌 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Dread Shield (공포 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Honored Relic (명예로운 성물)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Revenant Bow (저승궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Cache of Victory (승리의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Greater Collection of Helms (투구 상급 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Dream Catcher (꿈잡이)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Stormshield (폭풍방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Death's Dirk (죽음의 더크)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Octopian Edge (문어발 날붙이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Bloodsucker (피빨이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Nimble Staff (날렵한 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Silver Filigree Bow (은빛 세공 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Impact Hammer (충격 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Oblivion (망각)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Ritual Staff (의식 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Runic Staff (룬새김 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Shamanistic Staff (영매의 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Bone Scythe (뼈 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Cache of Legends (전설의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Sack of Vampiric Torques (흡혈 토크 목걸이 자루)
+   - 클래스 : 
+   - 부위 : 
+
+## 희귀3
+ - Fiend Rose (마귀 장미)
+   - 클래스 : 
+   - 부위 : 
+ - Coiling Ward (똬리 트는 수호물)
+   - 클래스 : 
+   - 부위 : 
+ - Abstruse Sigil (불가해한 인장)
+   - 클래스 : 
+   - 부위 : 
+ - Baleful Fragment (불길한 파편)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir Cache (비약 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Red-Cloaked Trophy (붉은 망토 노획품)
+   - 클래스 : 
+   - 부위 : 
+ - Gem Cache (보석 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Armor Cache (방어구 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Sack of Vampire Spoils (흡혈귀 전리품 자루)
+   - 클래스 : 
+   - 부위 : 
+ - (PH)Purified Sigil ((PH)Purified Sigil)
+   - 클래스 : 
+   - 부위 : 
+ - Cache of Legendary Materials (전설 재료 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Weapon Cache (무기 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Material Cache (재료 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Jewelry Cache (장신구 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Gold Cache (금화 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Scroll Cache (두루마리 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Merchant's Gem Cache (상인의 보석 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Crafting Materials Cache (Crafting Materials Cache)
+   - 클래스 : 
+   - 부위 : 
+ - Cache of Scattered Prisms (흩어진 분광경 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Cache of High-Level Resources (고레벨 자원 보관함)
+   - 클래스 : 
+   - 부위 : 
+
+## 희귀2
+ - Angelbreath (천사숨결)
+   - 클래스 : 
+   - 부위 : 
+ - Sigil Powder (인장 가루)
+   - 클래스 : 
+   - 부위 : 
+ - Paladin Lord's Bulwark (성기사 군주의 방벽)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Qin's Captivating Eye (친의 사로잡는 눈)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Glyph: Bane (문양: 파멸)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Veiled Crystal (미지의 수정)
+   - 클래스 : 
+   - 부위 : 
+ - Glyph: Charged (문양: 충전)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Scattered Prism (흩어진 분광경)
+   - 클래스 : 
+   - 부위 : 
+ - Glyph: Exploit (문양: 착취)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 
+ - Glyph: Ire (문양: 울화)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Steadfast Tunic (견고한 튜닉)
+   - 클래스 : 드루이드
+   - 부위 : 몸통
+ - Glyph: Turf (문양: 본거지)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Deadraiser (문양: 망자 사육자)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Unleash (문양: 방출)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Steadfast Boots (견고한 장화)
+   - 클래스 : 도적
+   - 부위 : 발
+ - Glyph: Weapon Master (문양: 무기 전문가)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Closer (문양: 종결자)
+   - 클래스 : 도적
+   - 부위 : 
+ - Outcast's Handwraps (추방자의 손싸개)
+   - 클래스 : 
+   - 부위 : 손
+ - Adventurer's Helm (모험가의 투구)
+   - 클래스 : 원소술사
+   - 부위 : 머리
+ - Glyph: Adept (문양: 숙련자)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Versatility (문양: 다재다능)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Flamefeeder (문양: 불길탐식자)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Bone Charm (뼈 부적)
+   - 클래스 : 
+   - 부위 : 목
+ - Doomblade (파멸칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Sacrificial (문양: 희생)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Blood-Cursed Band (피의 저주를 받은 가락지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Lord Zir's Amulet (군주 지르의 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Archon Staff (마인 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Reinforced (문양: 보강)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Fang and Claw (문양: 송곳니와 발톱)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Infernal Edge (지옥불 날붙이)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Fur-Lined Hood (모피 두른 두건)
+   - 클래스 : 
+   - 부위 : 머리
+ - Elder Staff (장로 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Devious (문양: 간악함)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Control (문양: 통제)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Crusher (문양: 분쇄자)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Dominate (문양: 지배)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Efficacy (문양: 효용성)
+   - 클래스 : 도적
+   - 부위 : 
+ - Darkblade (어둠날 단도)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Pyromaniac (문양: 방화광)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Marshal (문양: 작전사령관)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Amplify (문양: 증폭)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Desecration (문양: 모독)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Cleaver (문양: 가름꾼)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Seething (문양: 끓어오름)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Icebound Geode (얼음 덮인 정동석)
+   - 클래스 : 
+   - 부위 : 
+ - Strange Ore Sample (이상한 광석 표본)
+   - 클래스 : 
+   - 부위 : 
+ - Sturdy Hood (튼튼한 두건)
+   - 클래스 : 드루이드
+   - 부위 : 머리
+ - Zischagge (뿔 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Glyph: Guzzler (문양: 주정뱅이)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Poise (문양: 여유)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Blind Man's Bell (눈먼 남자의 종)
+   - 클래스 : 
+   - 부위 : 목
+ - Cathedral Crest (대성당 문장)
+   - 클래스 : 
+   - 부위 : 목
+ - Druidic Charm (드루이드 부적)
+   - 클래스 : 
+   - 부위 : 목
+ - Lapis Ward (청금석 수호물)
+   - 클래스 : 
+   - 부위 : 반지
+ - Unusual Ore (특이한 광석)
+   - 클래스 : 
+   - 부위 : 
+ - Eye of Enkil (엔킬의 눈)
+   - 클래스 : 
+   - 부위 : 목
+ - Weathered Cover (낡은 덮개)
+   - 클래스 : 
+   - 부위 : 머리
+ - Wanderer's Tunic (방랑자의 튜닉)
+   - 클래스 : 도적
+   - 부위 : 몸통
+ - Adventurer's Gloves (모험가의 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Glorious Gloves (명장의 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Glyph: Canny (문양: 영리함)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Essence (문양: 정수)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Imbiber (문양: 마시는 자)
+   - 클래스 : 원소술사,야만용사,강령술사
+   - 부위 : 
+ - Haunted Crossbow (귀신 들린 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Glyph: Nightstalker (문양: 밤추적자)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glorious Hood (명장의 두건)
+   - 클래스 : 야만용사
+   - 부위 : 머리
+ - Steadfast Pants (견고한 바지)
+   - 클래스 : 원소술사
+   - 부위 : 다리
+ - Glyph: Conjurer (문양: 창조술사)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Bloodfeeder (문양: 피탐식자)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Disembowel (문양: 할복)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Abyssal (문양: 심연)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Warrior (문양: 전사)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Frostbloom (서리꽃)
+   - 클래스 : 
+   - 부위 : 
+ - Bound Eye (속박된 눈)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Fur-Lined Robe (모피 두른 장포)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Totem (토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Glyph: Enchanter (문양: 마법부여사)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Winter (문양: 겨울)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Destruction (문양: 파괴)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Wrath (문양: 진노)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Outmatch (문양: 원정)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Tracker (문양: 추적자)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Undaunted (문양: 의연함)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Gem-laden Geode (보석으로 뒤덮인 정동석)
+   - 클래스 : 
+   - 부위 : 
+ - Horadric Initiate's Amulet (호라드림 신병의 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Borza's Bonecrusher (보르자의 뼈 파쇄자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Rumble (문양: 난동)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Visavajra (비사바즈라)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Flamberge (플람베르쥬)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Adventurer's Tunic (모험가의 튜닉)
+   - 클래스 : 강령술사
+   - 부위 : 몸통
+ - Jazeraint Mail (쇠미늘 갑옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Steadfast Gloves (견고한 장갑)
+   - 클래스 : 강령술사
+   - 부위 : 손
+ - Glyph: Torch (문양: 횃불)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Spirit (문양: 기백)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Mage (문양: 마법학자)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Scourge (문양: 참화)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Gravekeeper (문양: 묘지기)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Trembling Ring (전율하는 반지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ember Staff (잿불 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Broodmother's Stinger (종자어미의 독침)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Necklace of Inevitability (필연의 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Midwinter Spoils (한겨울 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Crow Fetish (까마귀 우상)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Apothecary's Staff (약제사의 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Adventurer's Pants (모험가의 바지)
+   - 클래스 : 강령술사
+   - 부위 : 다리
+ - Arbalest (강노)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Spellbook (마법서)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Superior Tunic (고급 튜닉)
+   - 클래스 : 강령술사
+   - 부위 : 몸통
+ - Glyph: Elementalist (문양: 정령술사)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Tactician (문양: 전술가)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Territorial (문양: 세력권)
+   - 클래스 : 원소술사,드루이드,야만용사,강령술사
+   - 부위 : 
+ - Glyph: Wilds (문양: 황야)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Werebear (문양: 곰인간)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Protector (문양: 보호자)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Bakira's Sting (바키라의 독침)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Acid Flux (산성 융제)
+   - 클래스 : 
+   - 부위 : 
+ - Horn Staff (뿔 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Explosive (문양: 폭발성)
+   - 클래스 : 도적
+   - 부위 : 
+ - Highland Circlet (고원의 고리 장식)
+   - 클래스 : 
+   - 부위 : 머리
+ - Glaive (글레이브)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Fur-Lined Pants (모피 두른 바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Weathered Scythe (낡은 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Two-Handed Hammer (양손 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Sturdy Pants (튼튼한 바지)
+   - 클래스 : 야만용사
+   - 부위 : 다리
+ - Lupine Totem (늑대 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Flanged Mace (갈고리 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Warding (문양: 수호)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Electrocute (문양: 감전)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Brawl (문양: 난투)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Combat (문양: 전투)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Corporeal (문양: 유체)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Quietus of Nafain (나파인의 종지부)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Charred Gauntlets (그을린 팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Scrimshaw Band (세공 가락지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Druidic Signet (드루이드 인장)
+   - 클래스 : 
+   - 부위 : 반지
+ - Glyph: Diminish (문양: 약화)
+   - 클래스 : 도적
+   - 부위 : 
+ - Dust Daisy (먼지 들국화)
+   - 클래스 : 
+   - 부위 : 
+ - Mace of Blazing Furor (타오르는 열광의 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Fifth Journey Cache (다섯 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Hunting Party Cache (사냥꾼 일행 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Hunters' Livery Cache (사냥꾼의 제복 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Gothic Shield (고딕 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Yataghan (야타간)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Coven's Cowl (마녀단의 머리쓰개)
+   - 클래스 : 
+   - 부위 : 머리
+ - Coven's Trunks (마녀단의 반바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Hache (창도끼)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Crude Totem (조잡한 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Sword-Staff (검창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Trident (삼지창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Adventurer's Boots (모험가의 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Dreamwhisper Totem (꿈속삭임 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Jo Staff (장봉)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Kingslayer (왕시해자)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Grim Wand (잔혹 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sturdy Gloves (튼튼한 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Conjuration Wand (구현의 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Might (문양: 힘)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Executioner (문양: 집행자)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Horadric Initiate's Staff (호라드림 신병의 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Wand of Abe-Mari (아베마리의 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Una's Lament (우나의 탄식)
+   - 클래스 : 
+   - 부위 : 반지
+ - Glyph: Darkness (문양: 어둠)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Sixth Journey Cache (여섯 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Blood Seeker's Helm (피 추적자 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Blood Magus Gloves (피 마술사 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Weathered Staff (낡은 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Magus Wand (점성술사 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Blood Orb (피의 구슬)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Grand Sword (거대 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Augur (환술의 눈)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Rune Blade (룬 칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Fauchard (포샤르)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Kris (크리스)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Broad Axe (넓적도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Dire Mace (거대 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Battle Staff (전투 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Claymore (클레이모어)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Gothic Blade (고딕 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Crowbill (부리창)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Reaper (저승 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Fur-Lined Boots (모피 두른 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Chausses (다리 갑옷)
+   - 클래스 : 
+   - 부위 : 다리
+ - Sand-Worn Breeches (모래에 닳은 무릎바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Quarter Staff (육척봉)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Steadfast Hood (견고한 두건)
+   - 클래스 : 강령술사
+   - 부위 : 머리
+ - Punisher (징벌자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Frostbite (문양: 동상)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Ambidextrous (문양: 양손잡이)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Mortal Draw (문양: 필멸의 패)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Werewolf (문양: 늑대인간)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Keeper (문양: 지킴이)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Fulminate (문양: 급성 폭발)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Axe (도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Vhenard's Esoteric Signet (베나드의 난해한 인장)
+   - 클래스 : 
+   - 부위 : 반지
+ - Sigil of Braestaig (브레이스태그의 인장)
+   - 클래스 : 
+   - 부위 : 반지
+ - Spotted Mushroom (점박이 버섯)
+   - 클래스 : 
+   - 부위 : 
+ - Dragon Staff (용 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Tribal Staff (부족 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Captain's Ragged Boots (대장의 해진 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Glyph: Revenge (문양: 보복)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Glyph: Twister (문양: 돌개바람)
+   - 클래스 : 야만용사
+   - 부위 : 
+ - Glyph: Stalagmite (문양: 석순)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Glyph: Tectonic (문양: 지층)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Sack of Skeleton Chokers (해골 목걸이 자루)
+   - 클래스 : 
+   - 부위 : 
+ - Kite Shield (연모양 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Falchion (펄션)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Broad Sword (넓적검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Grimstone Sword (유황석 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Highland Trousers (고원의 바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - King Maker (왕의 배후자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Weathered Tunic (낡은 튜닉)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Coven's Raiment (마녀단의 의복)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Weathered Boots (낡은 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Coven's Slippers (마녀단의 끌신)
+   - 클래스 : 
+   - 부위 : 발
+ - Weathered Gloves (낡은 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Sand-Worn Handwraps (모래에 닳은 손싸개)
+   - 클래스 : 
+   - 부위 : 손
+ - Scimitar (시미터)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Forgotten Sword (잊힌 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Iron Scythe (무쇠 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Steel Scythe (강철 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Cold-Steel Bow (찬강철 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Apprentice's Wand (수습생의 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Windlass (녹로노)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Enchanter Wand (마법부여사 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Keepsake (예물)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Glorious Boots (명장의 장화)
+   - 클래스 : 야만용사
+   - 부위 : 발
+ - Feral Effigy (흉포한 제웅)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Skycaller (하늘부름 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Longshot (원사궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Mace (철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Gladius (글래디우스)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Heavy Chestplate (강화 가슴 판갑)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Death's Defense (죽음의 변호)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Giant Sword (거인 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Tomb Wand (무덤 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sturdy Tunic (튼튼한 튜닉)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Siege Crossbow (공성 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Duelist Wand (결투 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Ghost Wand (유령 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Prophetic Urn (예언의 항아리)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Glyph: Earth and Sky (문양: 천지개벽)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Ambush (문양: 매복)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Chip (문양: 부스러기)
+   - 클래스 : 도적
+   - 부위 : 
+ - Sunburst Diadem (이글거리는 태양 왕관)
+   - 클래스 : 
+   - 부위 : 머리
+ - Staff of Elemental Command (원소 지배의 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Bloodspiller's Helm (피를 쏟는 자의 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Mohlon's Fang (몰론의 송곳니)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - The Crone's Blessing (마녀의 축복)
+   - 클래스 : 
+   - 부위 : 반지
+ - The Bear's Claw (곰의 발톱)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Gur's Freezing Armor (구르의 얼어붙은 방어구)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Manhunter's Breeches (인간사냥꾼의 무릎바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Hunter's Gloves (사냥꾼의 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Forgotten Acolyte's Cuirass (잊혀진 시종의 흉갑)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Vampiric Assassin's Dagger (흡혈 암살자의 단검)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Electrocution (문양: 감전사)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Exhumation (문양: 발굴)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Iron Shield (무쇠 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - War Staff (전쟁 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - War Axe  (전쟁 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - War Sword (전쟁 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Great Sword (대형 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Highland Handwraps (고원의 손싸개)
+   - 클래스 : 
+   - 부위 : 손
+ - Halberd (도끼창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Sand-Worn Vestment (모래에 닳은 예복)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Sand-Worn Shoes (모래에 닳은 신발)
+   - 클래스 : 
+   - 부위 : 발
+ - Hunter's Knife (사냥꾼의 칼)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Dirk (더크)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Piercer (송곳칼)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Nazar (나자르)
+   - 클래스 : 
+   - 부위 : 목
+ - Shortsword (소검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Barbed Club (미늘 곤봉)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Heavy Pants (강화 바지)
+   - 클래스 : 도적
+   - 부위 : 다리
+ - Glorious Pants (명장의 바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Swiftwind (돌개바람)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Silentstring (고요시위)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Longsword (장검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Mentor Wand (선도자 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Scorning Mask (경멸의 가면)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Thief's Shank (도둑의 칼자루)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Military Pick (군용 곡괭이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Wreathed Mace (휘감긴 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Gnarled Staff (옹이 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Glorious Tunic (명장의 튜닉)
+   - 클래스 : 도적
+   - 부위 : 몸통
+ - Sturdy Boots (튼튼한 장화)
+   - 클래스 : 원소술사
+   - 부위 : 발
+ - Uncommon Crossbow (고급 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Ring III (반지 III)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring VII (반지 VII)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring X (반지 X)
+   - 클래스 : 
+   - 부위 : 반지
+ - Leaden Mace (무쇠 철퇴)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Superior Boots (고급 장화)
+   - 클래스 : 야만용사
+   - 부위 : 발
+ - Zealot Blade (광신자의 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Phantom Maker (환영의 산실)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Lich Wand (리치 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Petrified Wand (석화 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Glyph: Shapeshifter (문양: 변신술사)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Infusion (문양: 주입)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Frostfeeder (문양: 서리탐식자)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Golems (문양: 골렘)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Heretic's Requiem (이단자의 장송곡)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Meshif's Sword (메시프의 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Hand Axe (손도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - One-Eyed Swordsman's Blade (외눈 검사의 칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Ring of Splintered Wood (쪼개진 나무의 반지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Grotesque Loop (징그러운 고리)
+   - 클래스 : 
+   - 부위 : 반지
+ - Writhing Shard (꿈틀거리는 파편)
+   - 클래스 : 
+   - 부위 : 목
+ - The Price of Purity (정화의 대가)
+   - 클래스 : 
+   - 부위 : 반지
+ - Varshan's Prayer Necklace (바르샨의 염주 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Glyph: Invocation (문양: 기원)
+   - 클래스 : 원소술사
+   - 부위 : 
+ - Hunters' Insignia Cache (사냥꾼의 휘장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Heavy Shield (강화 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Protector Shield (수호자 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Obsidian Staff (흑요석 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Oak Wand (참나무 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Steel Wand (강철 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Battle Wand (전투 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Iron Wand (무쇠 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Codex (고문서)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Bastard Sword (바스타드 소드)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Ripper Axe (톱날 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Highland Vestment (고원의 예복)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Highland Boots (고원의 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Pike (장창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Large Axe (큰도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Military Axe (군용 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Double Axe (양날 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Spiked Baton (쐐기 단봉)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Cudgel (방망이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Morning Star (모닝스타)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Fur-Lined Mitts (모피 두른 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Coven's Gloves (마녀단의 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Sand-Worn Cover (모래에 닳은 덮개)
+   - 클래스 : 
+   - 부위 : 머리
+ - Weathered Breeches (낡은 무릎바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Battle Axe (전투 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Shiv (비수)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Rondel (런들)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sargaris (사르가리스)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Demolisher (파쇄자)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Skull Crusher (해골 부수개)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - War Hammer (전쟁 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Great Maul (대형 쇠메)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Kama (카마)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Billhook (벌낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - War Sickle (전쟁 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sharp Scythe (뾰족낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Reaping Scythe (수확 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Forgotten Scythe (잊힌 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Steppe Band (평원 가락지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Uncommon Bow (고급 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Highland Bow (고원의 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Weathered Bow (낡은 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Forgotten Bow (잊힌 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Wanderer's Gloves (방랑자의 장갑)
+   - 클래스 : 도적
+   - 부위 : 손
+ - Laborer's Hammer (인부의 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Truncheon (치안봉)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Iron Staff (무쇠 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Wanderer's Pants (방랑자의 바지)
+   - 클래스 : 도적
+   - 부위 : 다리
+ - Hunter's Bow (사냥꾼의 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Cleaver (식칼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Two-Handed Sword (양손 검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Cleaver (가로날도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Heavy Gloves (강화 장갑)
+   - 클래스 : 도적
+   - 부위 : 손
+ - Reinforced Crossbow (보강된 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Rock Breaker (파암추)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비
+ - Feral Mace (흉포한 철퇴)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비
+ - Lesser Wand (초보용 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Wand (마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Tome (고서)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Vial of Power (힘의 약병)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Relic (성물)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Trophy Tusk (기념품 엄니)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Heavy Helm (강화 투구)
+   - 클래스 : 도적
+   - 부위 : 머리
+ - Heavy Boots (강화 장화)
+   - 클래스 : 도적
+   - 부위 : 발
+ - Stiletto (스틸레토)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Kard (카르드)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Twin Axe (쌍둥이 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Maul (쇠메)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Mallet (맬릿)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Great Hammer (대형 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Sledge Hammer (무쇠 망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Greater Maul (거대한 쇠메)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Club (곤봉)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Hammer (망치)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Earthshaper (대지창조자)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Wildcaller Totem (바람소환사 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Cedar Staff (삼나무 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Gothic Staff (고딕 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Rune Staff (룬 지팡이)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Iron Recurve (무쇠 만곡궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Flatbow (평궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Morningstar (모닝스타)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Simple Staff (기본 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Long Staff (장지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Composite Staff (합성 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - War Crescent (전쟁 초승달 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Heavy Axe (강화 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Wanderer's Boots (방랑자의 장화)
+   - 클래스 : 도적
+   - 부위 : 발
+ - Wanderer's Hood (방랑자의 두건)
+   - 클래스 : 도적
+   - 부위 : 머리
+ - Wanderer's Cap (방랑자의 두건모)
+   - 클래스 : 야만용사
+   - 부위 : 머리
+ - Great Axe (대형 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Windslicer (바람절단기)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Battleworn Crescent (전투로 단련된 초승달 칼날)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Flesh Sever (살점 절단기)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Basic Shield (기본적인 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Tower (대형 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Guard (보호구)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Basic Wand (기본적인 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Grave Wand (묘지 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Demon's Eye (악마의 눈알)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Balance Icon (균형의 우상)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Death Charm (죽음의 매혹)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Sinner's Skull (죄인의 해골)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Scapel (수술칼)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Grave Striker (무덤 격퇴자)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Tecpatl (제물칼)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Mangler (망나니의 칼날)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Sacrificial Kris (희생용 크리스)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Manifers (토시)
+   - 클래스 : 
+   - 부위 : 손
+ - Brogans (덧댐 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Heavy Crossbow (강화 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - War Axe  (전쟁 도끼 )
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - War Crossbow (전쟁 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Ring II (반지 II)
+   - 클래스 : 
+   - 부위 : 반지
+ - Amulet II (목걸이 II)
+   - 클래스 : 
+   - 부위 : 목
+ - Ring IV (반지 IV)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring V (반지 V)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring VI (반지 VI)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring VIII (반지 VIII)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring IX (반지 IX)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XI (반지 XI)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XII (반지 XII)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XIII (반지 XIII)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XIV (반지 XIV)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XV (반지 XV)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XVI (반지 XVI)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ring XVII (반지 XVII)
+   - 클래스 : 
+   - 부위 : 반지
+ - Amulet III (목걸이 III)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet IV (목걸이 IV)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet V (목걸이 V)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet VI (목걸이 VI)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet VII (목걸이 VII)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet VIII (목걸이 VIII)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet IX (목걸이 IX)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet X (목걸이 X)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XI (목걸이 XI)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XII (목걸이 XII)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XIII (목걸이 XIII)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XIV (목걸이 XIV)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XV (목걸이 XV)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XVI (목걸이 XVI)
+   - 클래스 : 
+   - 부위 : 목
+ - Amulet XVII (목걸이 XVII)
+   - 클래스 : 
+   - 부위 : 목
+ - Greater Scythe (거대한 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Armored Buckler (철갑 버클러)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Razorwind (서슬바람)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Anlace (양날 단검)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Smashing Star (튼튼한 모닝스타)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Ursine Totem (곰 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Iron Axe (강철 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Silver Gouger (은빛 착취자)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Iron Walking Stick (무쇠 지팡막대)
+   - 클래스 : 원소술사,드루이드
+   - 부위 : 주 장비,보조 무기
+ - Superior Pants (고급 바지)
+   - 클래스 : 야만용사
+   - 부위 : 다리
+ - Combat Hatchet (전투 손도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Combat Shield (결투용 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Bloodsweep (피쓸이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Compassion (연민)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Superior Gloves (고급 장갑)
+   - 클래스 : 야만용사
+   - 부위 : 손
+ - Assassin's Blade (암살자의 검)
+   - 클래스 : 도적
+   - 부위 : 주 장비,보조 무기
+ - Superior Shield (고급 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Warrior's Shield (전사의 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Bestial Totem (야수 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - War Mallet (전쟁 맬릿)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - The End (종말낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Greater Shield (상급 방패)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Silver Warp-Bow (은 곡궁)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Iron Mauler (무쇠 쇠메)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Impaler (송곳창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Glyph: Human (문양: 인간)
+   - 클래스 : 드루이드
+   - 부위 : 
+ - Glyph: Pride (문양: 긍지)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Snare (문양: 덫)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Ranger (문양: 순찰자)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Fluidity (문양: 유동)
+   - 클래스 : 도적
+   - 부위 : 
+ - Glyph: Blood-drinker (문양: 피 마시기)
+   - 클래스 : 강령술사
+   - 부위 : 
+ - Signet of the Father (아버지의 인장)
+   - 클래스 : 
+   - 부위 : 반지
+ - Caldean Plate (칼데움인의 판금)
+   - 클래스 : 
+   - 부위 : 목
+ - Runed Band (룬이 새겨진 가락지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Ceder Wood Axe (삼나무 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Earth Staff (대지 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Medicine Staff (약 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Rea (리아)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Forgotten Hero's Helm (잊혀진 영웅의 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Patchwork Leggings (기워 붙인 각반)
+   - 클래스 : 
+   - 부위 : 
+
+## 희귀1
+
+## 마법
+ - Elixir of Death Evasion (죽음 회피의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Gallowvine (교수대덩굴)
+   - 클래스 : 
+   - 부위 : 
+ - Lifesbane (생명파멸)
+   - 클래스 : 
+   - 부위 : 
+ - Blightshade (마름병그늘)
+   - 클래스 : 
+   - 부위 : 
+ - Biteberry (따끔딸기)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Resourcefulness (풍부한 자원의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Skin Elixir (철갑 피부 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Combatant Fortune (무운의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Magic Resist (마법 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Blood (충만한 피)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Cruelty (잔혹성의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Reddamine (레더마인)
+   - 클래스 : 
+   - 부위 : 
+ - Herb Cache (약초 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Elixir of Shadow Resistance (위력적인 암흑 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Gileon's Brew (길리언의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Demon's Heart (악마의 심장)
+   - 클래스 : 
+   - 부위 : 
+ - Spirit Dance (영혼의 춤)
+   - 클래스 : 
+   - 부위 : 
+ - Superior Leather (상급 가죽)
+   - 클래스 : 
+   - 부위 : 
+ - Paletongue (바랜혀)
+   - 클래스 : 
+   - 부위 : 
+ - Howler Moss (울음꾼 이끼)
+   - 클래스 : 
+   - 부위 : 
+ - Chorus of War (전쟁의 합창)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Fortitude (불굴의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Curative Elixir (치료의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Elixir of Lightning Resistance (위력적인 번개 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Tattered Map (너덜너덜한 지도)
+   - 클래스 : 
+   - 부위 : 
+ - Pugio (푸기오)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Pants (바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Primitive Talisman (원시 영물)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Expertise Elixir (전문성의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Grave Dust (무덤 가루)
+   - 클래스 : 
+   - 부위 : 
+ - Etched Helm (무늬 투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Heady Vampirism Elixir (자극적인 흡혈 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Midwinter Purse (한겨울 주머니)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Undead-slaying (언데드 처치의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Bardiche (바디시)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Silver Ore (은 광석)
+   - 클래스 : 
+   - 부위 : 
+ - Acrobatics Elixir (곡예의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Assault Elixir (자극적인 맹공의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Elixir of Shadow Resistance (강한 암흑 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Unchained Zakarum Repository (사슬이 풀린 자카룸 저장고)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Blood Cache (충만한 피 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Crushed Beast Bones (으깬 야수 뼈)
+   - 클래스 : 
+   - 부위 : 
+ - The Creatures of Night (밤의 괴물)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Elixir of Fire Resistance (강한 화염 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Salvage Cache (폐품 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Ore Cache (광물 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Reddamine Buzz (레더마인 향취)
+   - 클래스 : 
+   - 부위 : 
+ - Soothing Spices (위안의 향신료)
+   - 클래스 : 
+   - 부위 : 
+ - The Orbei Monastery, Part 1 (오르베이 수도원 - 1부)
+   - 클래스 : 
+   - 부위 : 
+ - A Letter from Lorath to Donan (로라스가 도난에게 보낸 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Iron Barb Elixir (약한 강철 가시 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Roina's Heirloom Amulet (로이나의 가보 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Watchman's Log (망꾼의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Focus (중심점)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Light-Blessed Amulet (빛의 축복을 받은 목걸이)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Precision Elixir (자극적인 정밀도의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Sailor's Vessel (선원의 함)
+   - 클래스 : 
+   - 부위 : 
+ - Embossed Leather Belt (새김무늬 가죽 허리띠)
+   - 클래스 : 
+   - 부위 : 
+ - Bloody Condemnation (피투성이 규탄)
+   - 클래스 : 
+   - 부위 : 
+ - Cache of Caged Hearts (우리에 갇힌 심장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Fourth Journey Cache (네 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Sturdy Staff (튼튼한 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Elixir of Savagery (야만성의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Song of the Mountain (산의 노래)
+   - 클래스 : 
+   - 부위 : 
+ - Spiral Morning (나선의 아침)
+   - 클래스 : 
+   - 부위 : 
+ - Chronicles of the New Horadrim, Part One (신 호라드림의 연대기, 1부)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Iron Barb Elixir (위력적인 강철 가시 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Crushing Elixir (자극적인 분쇄의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Elixir of Fire Resistance (자극적인 화염 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Elixir of Poison Resistance (위력적인 독 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Mother's Knife (어머니의 칼)
+   - 클래스 : 원소술사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Tale of Oldstones (고대 열석의 이야기)
+   - 클래스 : 
+   - 부위 : 
+ - Scrap of Paper (종잇조각)
+   - 클래스 : 
+   - 부위 : 
+ - Sated Bone Cache (만족한 뼈 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Unsealed Oxen Tribe Cache (봉인 해제된 소 부족 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Glowing Khazra Offering (빛나는 카즈라 공물)
+   - 클래스 : 
+   - 부위 : 
+ - Swamp-Stained Satchel (늪의 얼룩이 묻은 가방)
+   - 클래스 : 
+   - 부위 : 
+ - Treads (발 보호대)
+   - 클래스 : 
+   - 부위 : 발
+ - Outsider's Gloves (이방인의 장갑)
+   - 클래스 : 강령술사
+   - 부위 : 손
+ - The Birth of Hell (지옥의 탄생)
+   - 클래스 : 
+   - 부위 : 
+ - Timeworn Letter (케케묵은 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Sage's Whisper (현자의 속삭임)
+   - 클래스 : 
+   - 부위 : 
+ - Blessed Guide (축복받은 인도자)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Iron Barb Elixir (강한 강철 가시 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Iron Barb Elixir (자극적인 강철 가시 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Third Eye Elixir (약한 삼안 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Vampirism Elixir (약한 흡혈 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Assault Elixir (맹공의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Elixir of Cold Resistance (위력적인 냉기 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Vampirism Elixir (강한 흡혈 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Vampirism Elixir (위력적인 흡혈 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Miner's Litany (광부의 기도문)
+   - 클래스 : 
+   - 부위 : 반지
+ - Druidic Heirloom Amulet (드루이드의 가보 목걸이)
+   - 클래스 : 
+   - 부위 : 목
+ - Bill of Mortality (사망통계표)
+   - 클래스 : 
+   - 부위 : 
+ - Bloodstained Scrap of Paper (피로 얼룩진 종잇조각)
+   - 클래스 : 
+   - 부위 : 
+ - Bloodstained Journal (피로 얼룩진 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Creased Invitation (구겨진 초대장)
+   - 클래스 : 
+   - 부위 : 
+ - Appeased Predator's Offering (잠잠해진 포식자의 공물)
+   - 클래스 : 
+   - 부위 : 
+ - Sated Necrolyte's Cache (만족한 강령사의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Vicious Malignant Ichor (사악한 악의 체액)
+   - 클래스 : 
+   - 부위 : 
+ - Leather Doublet (가죽 여밈옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Hand Sickle (손낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Elixir of Demon-slaying (악마 처치의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Man-slaying (인간 처치의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Wanderer's Helm (방랑자의 투구)
+   - 클래스 : 야만용사
+   - 부위 : 머리
+ - Prava's Decree (프라바의 율령)
+   - 클래스 : 
+   - 부위 : 
+ - Crumpled Paper (구겨진 종이)
+   - 클래스 : 
+   - 부위 : 
+ - War Chief’s Journal (전투대장의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Oyuun's Letter (오윤의 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Queen's Supreme (여왕의 최고 권력)
+   - 클래스 : 
+   - 부위 : 
+ - Scents of the Desert Afternoon (오후 사막의 냄새)
+   - 클래스 : 
+   - 부위 : 
+ - Cursed Scroll of Chaos (혼돈의 저주받은 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - Cursed Scroll of Recklessness (무모함의 저주받은 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Acrobatics Elixir (자극적인 곡예의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Precision Elixir (정밀도의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Shadow Resistance (암흑 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Vampirism Elixir (흡혈 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Journal Page (일지 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Unsealed Penitent's Cache (봉인 해제된 참회의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Oyuun's Journals (오윤의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Uncertain Invoker (불확실한 각성기)
+   - 클래스 : 
+   - 부위 : 
+ - Brutal Malignant Ichor (냉혹한 악의 체액)
+   - 클래스 : 
+   - 부위 : 
+ - Third Journey Cache (세 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Sealed Cache of Ichor (봉인된 체액 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Cage-Torn Bag (우리에 찢긴 가방)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Beast-slaying (야수 처치의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Refined Focus (세련된 중심점)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Bloodstained Parchment (피로 얼룩진 양피지)
+   - 클래스 : 
+   - 부위 : 
+ - Desert Escape (사막 탈출)
+   - 클래스 : 
+   - 부위 : 
+ - Choker of Penance (회개의 목띠)
+   - 클래스 : 
+   - 부위 : 목
+ - Weak Elixir of Shadow Resistance (약한 암흑 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Assault Elixir (위력적인 맹공의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Cold Resistance (냉기 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Elixir of Cold Resistance (자극적인 냉기 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Crushing Elixir (위력적인 분쇄의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Fire Resistance (화염 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Elixir of Lightning Resistance (자극적인 번개 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Precision Elixir (강한 정밀도의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Precision Elixir (위력적인 정밀도의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Elixir of Shadow Resistance (자극적인 암흑 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Adventurer's Note (모험가의 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Hastily Written Note (휘갈겨 쓴 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Burned Parchment (타버린 양피지)
+   - 클래스 : 
+   - 부위 : 
+ - Murmuring Cache (중얼거리는 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Uncertain Heart (불확실한 심장)
+   - 클래스 : 
+   - 부위 : 
+ - Velvet Reliquary Cover (벨벳 성물함 덮개)
+   - 클래스 : 
+   - 부위 : 
+ - Short Sword (소검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Helm (투구)
+   - 클래스 : 
+   - 부위 : 머리
+ - Boot Blade (주머니칼)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Initiate's Pants (신병의 바지)
+   - 클래스 : 원소술사
+   - 부위 : 다리
+ - Pellet Bow (돌활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Bludgeon (몽둥이)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Broadsword (넓적검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Basic Greatsword (기본적인 대검)
+   - 클래스 : 야만용사,강령술사
+   - 부위 : 주 장비
+ - Festering Scripture (곪아 터진 경전)
+   - 클래스 : 
+   - 부위 : 
+ - Steel Defender (강철 수호 검)
+   - 클래스 : 야만용사,도적,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Etched Gloves (무늬 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Storm of the Wilds (야생의 폭풍)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-written Sermon (피로 적힌 설교)
+   - 클래스 : 
+   - 부위 : 
+ - Triune Missive (삼위일체단 서한)
+   - 클래스 : 
+   - 부위 : 
+ - Ornate Triune Letter (화려한 삼위일체단 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Paladin Squire's Journal, Part Two (성기사 견습생의 일지, 2부)
+   - 클래스 : 
+   - 부위 : 
+ - Elias' Research Notes, Part 4 (엘리아스의 연구 기록 - 4부)
+   - 클래스 : 
+   - 부위 : 
+ - Dropped Journal (떨어진 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Gospel of the Mother (어머니의 가르침)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Barb Elixir (강철 가시 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Elixir of Poison Resistance (약한 독 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Acrobatics Elixir (위력적인 곡예의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Assault Elixir (강한 맹공의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Elixir of Poison Resistance (자극적인 독 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Horadric Initiate's Robes (호라드림 신병의 장포)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Child's Journal (아이의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Torn Notebook Page (찢긴 공책 책장)
+   - 클래스 : 
+   - 부위 : 
+ - Piece of Parchment (양피지 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Excavation Log (발굴현장 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Leather Cache (가죽 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Unsealed Exorcist's Cache (봉인이 풀린 퇴마사의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Magistrate's Ring (재판관의 반지)
+   - 클래스 : 
+   - 부위 : 반지
+ - Buckler (버클러)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - Relic Skull (성물 해골)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 보조 무기
+ - Gauntlets (팔목 장갑)
+   - 클래스 : 
+   - 부위 : 손
+ - Common Bow (일반 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Scythe (낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Full Grain Leather (Full Grain Leather)
+   - 클래스 : 
+   - 부위 : 
+ - Boots (장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Cursed Scroll of Hatestalker (증오추적자의 저주받은 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - Drifter's Boots (떠돌이의 장화)
+   - 클래스 : 도적
+   - 부위 : 발
+ - Wayfarer's Boots (나그네의 장화)
+   - 클래스 : 드루이드
+   - 부위 : 발
+ - Initiate's Boots (신병의 장화)
+   - 클래스 : 원소술사
+   - 부위 : 발
+ - Drifter's Tunic (떠돌이의 튜닉)
+   - 클래스 : 도적
+   - 부위 : 몸통
+ - Wayfarer's Tunic (나그네의 튜닉)
+   - 클래스 : 드루이드
+   - 부위 : 몸통
+ - Initiate's Tunic (신병의 튜닉)
+   - 클래스 : 원소술사
+   - 부위 : 몸통
+ - Makeshift Bow (급조한 활)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Rudimentary Wand (기초 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Simple Focus (기본 중심점)
+   - 클래스 : 원소술사
+   - 부위 : 보조 무기
+ - Crude Cudgel (조잡한 방망이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비
+ - Drifter's Pants (떠돌이의 바지)
+   - 클래스 : 도적
+   - 부위 : 다리
+ - Drifter's Gloves (떠돌이의 장갑)
+   - 클래스 : 도적
+   - 부위 : 손
+ - Cutter's Axe (벌목꾼의 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비,보조 무기
+ - Primitive Totem (원시 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - Crude Hammer (조잡한 망치)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Rough Staff (거친 지팡이)
+   - 클래스 : 원소술사
+   - 부위 : 주 장비,보조 무기
+ - Wayfarer's Gloves (나그네의 장갑)
+   - 클래스 : 드루이드
+   - 부위 : 손
+ - Wayfarer's Pants (나그네의 바지)
+   - 클래스 : 드루이드
+   - 부위 : 다리
+ - Initiate's Gloves (신병의 장갑)
+   - 클래스 : 원소술사
+   - 부위 : 손
+ - Drifter's Hood (떠돌이의 두건)
+   - 클래스 : 도적
+   - 부위 : 머리
+ - Wayfarer's Helm (나그네의 투구)
+   - 클래스 : 드루이드
+   - 부위 : 머리
+ - Initiate's Hood (신병의 두건)
+   - 클래스 : 원소술사
+   - 부위 : 머리
+ - Forester's Axe (벌채꾼의 도끼)
+   - 클래스 : 드루이드,야만용사
+   - 부위 : 주 장비
+ - Rugged Stave (투박한 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Rough-hewn Wand (투박한 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Lesser Totem (하급 토템)
+   - 클래스 : 드루이드
+   - 부위 : 보조 무기
+ - [PH]Lorebook (이야기책)
+   - 클래스 : 
+   - 부위 : 
+ - Makeshift Wand (급조한 마법봉)
+   - 클래스 : 원소술사,강령술사
+   - 부위 : 주 장비,보조 무기
+ - Heavy Scythe (강화 낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Ravaged Journal (파손된 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Outsider's Boots (이방인의 장화)
+   - 클래스 : 강령술사
+   - 부위 : 발
+ - Outsider's Pants (이방인의 바지)
+   - 클래스 : 강령술사
+   - 부위 : 다리
+ - Outsider's Hood (이방인의 두건)
+   - 클래스 : 강령술사
+   - 부위 : 머리
+ - Outsider's Tunic (이방인의 튜닉)
+   - 클래스 : 강령술사
+   - 부위 : 몸통
+ - Ring I (반지 I)
+   - 클래스 : 
+   - 부위 : 반지
+ - Amulet I (목걸이 I)
+   - 클래스 : 
+   - 부위 : 목
+ - Formal Request (공식 요청)
+   - 클래스 : 
+   - 부위 : 
+ - [PH]Scythe (낫)
+   - 클래스 : 강령술사
+   - 부위 : 주 장비,보조 무기
+ - Vani's Journal (바니의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Specimen Notes (표본 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Large Event Reward Cache (대형 이벤트 보상 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Etched Jacket (무늬 웃옷)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Etched Greaves (무늬 경갑)
+   - 클래스 : 
+   - 부위 : 발
+ - Etched Pants (무늬 바지)
+   - 클래스 : 
+   - 부위 : 다리
+ - Simple Crossbow (기본 쇠뇌)
+   - 클래스 : 도적
+   - 부위 : 주 장비
+ - Eriman's Plea (에리만의 탄원서)
+   - 클래스 : 
+   - 부위 : 
+ - Cultist Writings (이교도의 글)
+   - 클래스 : 
+   - 부위 : 
+ - Vardok’s Note (바르도크의 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Silver Scroll (은빛 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - Kemir's Stockpile (케미르의 비축고)
+   - 클래스 : 
+   - 부위 : 
+ - Shredded Orders (찢긴 명령서)
+   - 클래스 : 
+   - 부위 : 
+ - Letter (편지)
+   - 클래스 : 
+   - 부위 : 
+ - Ammuit Acolyte's Journal (아무이트 시종의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Acrid Caverns (매캐한 동굴)
+   - 클래스 : 
+   - 부위 : 
+ - Orbei Scholar's Notes (오르베이 학자의 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-stained Page (피로 얼룩진 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Triune Decree (삼위일체단 칙명)
+   - 클래스 : 
+   - 부위 : 
+ - Mystic’s Journal (점술사의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Survivor’s Journal (생존자의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Bandit's Notes (좀도둑의 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Patriarch's Den (장로의 소굴)
+   - 클래스 : 
+   - 부위 : 
+ - Shipwrecked Mariner’s Log (난파당한 뱃사람의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Vizjerei Journal Page (비제레이 일지 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Monk’s Journal (수도사의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Torn Parchment (찢긴 양피지)
+   - 클래스 : 
+   - 부위 : 
+ - Ancient Times (고대의 이야기)
+   - 클래스 : 
+   - 부위 : 
+ - Scorched Page (그을린 책장)
+   - 클래스 : 
+   - 부위 : 
+ - Old book (오래된 책)
+   - 클래스 : 
+   - 부위 : 
+ - The Orbei Monastery, Part 2 (오르베이 수도원 - 2부)
+   - 클래스 : 
+   - 부위 : 
+ - Cursed Scroll of Tranquility (고요의 저주받은 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - A Personal Journal (개인 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Paladin Squire's Journal, Part One (성기사 견습생의 일지, 1부)
+   - 클래스 : 
+   - 부위 : 
+ - Frozen Journal (얼어붙은 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Chronicles of the New Horadrim, Part Two (신 호라드림의 연대기, 2부)
+   - 클래스 : 
+   - 부위 : 
+ - Chronicles of the New Horadrim, Part Three (신 호라드림의 연대기, 3부)
+   - 클래스 : 
+   - 부위 : 
+ - Elias' Research Notes, Part 1 (엘리아스의 연구 기록 - 1부)
+   - 클래스 : 
+   - 부위 : 
+ - Elias' Research Notes, Part 2 (엘리아스의 연구 기록 - 2부)
+   - 클래스 : 
+   - 부위 : 
+ - Elias' Research Notes, Part 3 (엘리아스의 연구 기록 - 3부)
+   - 클래스 : 
+   - 부위 : 
+ - Crumbling Leaflet (부스러지는 전단)
+   - 클래스 : 
+   - 부위 : 
+ - Timue's Journal (티무의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Handwritten Note (손글씨로 적힌 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Battered Journal (닳아 해진 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Merchant's Letter (상인의 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Message from the Abbot (수도원장의 전갈)
+   - 클래스 : 
+   - 부위 : 
+ - Scholar's Journal (학자의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Third Eye Elixir (삼안 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Third Eye Elixir (강한 삼안 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Third Eye Elixir (위력적인 삼안 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Heady Third Eye Elixir (자극적인 삼안 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Concealed Letter (숨겨진 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Acrobatics Elixir (약한 곡예의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Assault Elixir (약한 맹공의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Elixir of Cold Resistance (약한 냉기 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Crushing Elixir (약한 분쇄의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Elixir of Fire Resistance (약한 화염 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Elixir of Lightning Resistance (약한 번개 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Weak Precision Elixir (약한 정밀도의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Acrobatics Elixir (강한 곡예의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Elixir of Cold Resistance (강한 냉기 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Crushing Elixir (분쇄의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Crushing Elixir (강한 분쇄의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Potent Elixir of Fire Resistance (위력적인 화염 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Lightning Resistance (번개 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Elixir of Lightning Resistance (강한 번개 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Elixir of Poison Resistance (독 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Strong Elixir of Poison Resistance (강한 독 저항의 비약)
+   - 클래스 : 
+   - 부위 : 
+ - Villager's Journal (주민의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Blest Prayer Beads (축복받은 염주)
+   - 클래스 : 
+   - 부위 : 목
+ - Unsent Letter (부치지 않은 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Targe (타아지)
+   - 클래스 : 강령술사
+   - 부위 : 보조 무기
+ - A Record of My Journey Pt. I (내 여정의 기록 1부)
+   - 클래스 : 
+   - 부위 : 
+ - Undelivered Letter (전해지지 않은 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Sealed Letter (봉인된 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Knight's Journal (기사의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Abandoned Journal (버려진 일지)
+   - 클래스 : 
+   - 부위 : 
+ - High Priestess' Missive (대사제의 서한)
+   - 클래스 : 
+   - 부위 : 
+ - Journal Entry (일지 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Large Scroll (큰 두루마리)
+   - 클래스 : 
+   - 부위 : 
+ - Old Crinkled Letter (낡고 쪼글쪼글한 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Research Log (연구 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-Speckled Journal Entry (피에 젖은 일지 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Tunnels (철의 굴)
+   - 클래스 : 
+   - 부위 : 
+ - Bandit Note (좀도둑의 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Note (쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Holy Order (신성한 명령서)
+   - 클래스 : 
+   - 부위 : 
+ - Malnok Cliffs  (말녹 벼랑 )
+   - 클래스 : 
+   - 부위 : 
+ - Caretaker's Memoirs (관리자의 회고록)
+   - 클래스 : 
+   - 부위 : 
+ - Torn Paper (찢어진 종이)
+   - 클래스 : 
+   - 부위 : 
+ - Drafted Letter (완성하지 않은 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Dusty Slip of Parchment (먼지투성이 양피지 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Scorched Demands (그을린 청구서)
+   - 클래스 : 
+   - 부위 : 
+ - Tattered Missive (너덜너덜한 서한)
+   - 클래스 : 
+   - 부위 : 
+ - Cathedral Orders (대성당 명령서)
+   - 클래스 : 
+   - 부위 : 
+ - Soggy Letter (흠뻑 젖은 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Chieftain's Orders (족장의 명령서)
+   - 클래스 : 
+   - 부위 : 
+ - Faded Letter (흐릿해진 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Torn Tome Pages (찢긴 고서 책장)
+   - 클래스 : 
+   - 부위 : 
+ - Crumpled Journal Page (구겨진 일지 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Soot-stained Letter (검댕으로 얼룩진 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Crumpled Warning (구겨진 경고)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-Smeared Ledger (피로 더러워진 장부)
+   - 클래스 : 
+   - 부위 : 
+ - Tattered Page (너덜너덜한 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Tattered Zakarum Missive (너덜너덜한 자카룸 서한)
+   - 클래스 : 
+   - 부위 : 
+ - Worn Journal (낡은 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Discarded Journal (버려진 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Knight Commander's Log (기사 사령관의 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Hunter's Journal (사냥꾼의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-spattered Prayer Book (피가 튄 기도서)
+   - 클래스 : 
+   - 부위 : 
+ - Scavenger’s Journal (청소부의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Mine Foreman Logbook (광산 현장감독의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Letter to Exalted Lazira (존귀한 라지라에게 보내는 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Hidden Oasis (숨겨진 오아시스)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-Soaked Paper (피에 젖은 종이)
+   - 클래스 : 
+   - 부위 : 
+ - Notes on Looters’ Hand Drawn Map (약탈자의 손으로 그린 지도에 남긴 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Ragged Piece of Cloth (해진 헝겊 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Parchment (양피지)
+   - 클래스 : 
+   - 부위 : 
+ - Experiment Log (실험 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Damaged Journal (손상된 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Blood-streaked Diary (핏자국이 남은 일기)
+   - 클래스 : 
+   - 부위 : 
+ - Charred Journal (불타버린 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Zoological Survey (동물학 조사)
+   - 클래스 : 
+   - 부위 : 
+ - Ledger Page (장부 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Ragged Piece of Parchment (해진 양피지 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Interrogation Journal (심문 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Cultist Prayer Book (이교도 기도서)
+   - 클래스 : 
+   - 부위 : 
+ - Faded Journal Page (흐릿해진 일지 낱장)
+   - 클래스 : 
+   - 부위 : 
+ - Devotional (헌신)
+   - 클래스 : 
+   - 부위 : 
+ - Defector's Note (탈주자의 쪽지)
+   - 클래스 : 
+   - 부위 : 
+ - Polearm (미늘창)
+   - 클래스 : 야만용사
+   - 부위 : 주 장비
+ - Graverobber's Journal (도굴꾼의 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Strange Journal (정체 모를 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Lost Journal (잃어버린 일지)
+   - 클래스 : 
+   - 부위 : 
+ - Bloodstained Confession (피로 얼룩진 고백)
+   - 클래스 : 
+   - 부위 : 
+ - Crusader's Letter (성전사의 편지)
+   - 클래스 : 
+   - 부위 : 
+ - Bone Staff (뼈 지팡이)
+   - 클래스 : 드루이드
+   - 부위 : 주 장비,보조 무기
+ - Medical Notes (의료 기록)
+   - 클래스 : 
+   - 부위 : 
+ - Waterlogged Missive (물에 잠긴 서한)
+   - 클래스 : 
+   - 부위 : 
+ - Ledger of Tithes Received (헌금 수령 장부)
+   - 클래스 : 
+   - 부위 : 
+ - Anonymous Letter (익명의 편지)
+   - 클래스 : 
+   - 부위 : 
+ - [PH]Lorebook ([PH]Lorebook)
+   - 클래스 : 
+   - 부위 : 
+ - Devious Malignant Ichor (간악한 악의 체액)
+   - 클래스 : 
+   - 부위 : 
+ - Curative Cache (치료의 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Every Invoker (모든 각성기)
+   - 클래스 : 
+   - 부위 : 
+ - Cache of Nightmare Sigils (악몽의 인장 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Varshan's Modest Effects (바르샨의 소박한 소지품)
+   - 클래스 : 
+   - 부위 : 
+
+## 일반
+ - Reins of the Bloody Liquid Steed (핏빛 액체 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Demonbinder (악마결속마)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Caged Heart (우리에 갇힌 심장)
+   - 클래스 : 
+   - 부위 : 
+ - Bone-Caged Barding (뼈에 갇힌 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Barding of Mount Arreat (아리앗 산 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Demonic Warlord's Barding (악마 장군의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Collection of Chaos (혼돈의 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Bloody Warlord's Barding (핏빛 장군의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Bloody Steed (핏빛 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Stamina Potion (지구력 물약)
+   - 클래스 : 
+   - 부위 : 
+ - Ghastly Reins (섬뜩한 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Brimstone (유황)
+   - 클래스 : 
+   - 부위 : 
+ - Scosglen Barding (스코스글렌 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Striped Steppe Steed (줄무늬 평원 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Caldeum Steed (칼데움 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Elder Druid Barding (장로 드루이드 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Fresh Meaty Barding (신선한 고기 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Dark Knight's Barding (어둠의 기사의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Ashava Barding (아샤바 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Barding of Elemental Fury (원소 분노의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Diadem of the Ancient (고대인의 머리관)
+   - 클래스 : 
+   - 부위 : 머리
+ - Brutal Wizard's Barding (냉혹한 마법사의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Varshan's Heart (바르샨의 심장)
+   - 클래스 : 
+   - 부위 : 
+ - Barding of the Sightless Eye (보이지 않는 눈의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Ashava's Bone Fragment (아샤바의 뼈 조각)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Treasure Beast Barding (보물 야수 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Steppe Fetish Mask (평원 우상족 가면)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Pale Barding (창백한 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Killer's Guise (살해자의 허울)
+   - 클래스 : 
+   - 부위 : 머리
+ - Brigandine Barding (미늘 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Cruel Assassin's Barding (잔혹한 암살자의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Killer's Vest (살해자의 조끼)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Killer's Leggings (살해자의 각반)
+   - 클래스 : 
+   - 부위 : 다리
+ - Traveling Merchant's Tack (행상인의 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Bloody Warlord's Warning (핏빛 장군의 경고)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Reins of the Marsh Roan Steed (수렁 얼룩 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Granite-coat Steed (화강암털 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Binding the Fell Steed (지옥 군마 결속)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Triune Blood Font (삼위일체단 피의 샘)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Scosglen Tack (스코스글렌 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Spotted Shalecoat Steed (혈암털 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Bone-Caged Heart (뼈에 갇힌 심장)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Reins of the Blood Bay Steed (피의 만 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Brigand's Steed (산적의 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Decaying Steed (썩어가는 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Skull Torch (해골 횃불)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Malignant Body Cache (악의 육신 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Chunk (강철 덩어리)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Reliquary (철 성물함)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Witch's Travel-Totem (마녀의 여행 토템)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Horadric Tack (호라드림 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Horadric Tome (호라드림 고서)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Reins of the Pale Steed (창백한 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Old Nell Steed (늙은 넬 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Steppe Barding (평원 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Ethereal Plate (무형의 판금)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Shelter of Light's Messenger (빛의 전령 안식처)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Areion's Coat (아리온의 외투)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Dustback Steed (먼지등 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Marshback Steed (수렁등 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Buckskin Bay Steed (녹비 만 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Beast's Skull Trophy (야수의 두개골 노획품)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Dark Knight's Strongbox (어둠의 기사의 보물함)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Demonic Warlord's Windchimes (악마 군장의 풍경)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Elder Druid's Totem (장로 드루이드의 토템)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Lìliàng's Grand Accoutrement (릴리앙의 거대 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Rawhide (날가죽)
+   - 클래스 : 
+   - 부위 : 
+ - Gruesome Banner (섬뜩한 깃발)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Dark Banner (어두운 깃발)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Shield of Mount Arreat (아리앗 산의 방패)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Reins of the Taiga Roan Steed (침엽수림 얼룩 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Flesh-weld Rod (살점 용접 막대)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Kehjistani Barding (케지스탄 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Barding of Rathma (라트마의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Ivory Horn of Nahantu (나한투의 상아 뿔)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Blighted Fragment (마름병 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Sturdy Saddle (튼튼한 안장)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Hawezar Tack (하웨자르 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Executioner's Steed (집행자의 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Crest of Rathma (라트마의 문장)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Lamplighter's Lantern-Staff (등지기의 등불 지팡이)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Butcher's Trophy Cleaver (도살자의 노획품 식칼)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Emerald Fragment (에메랄드 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Amethyst Fragment (자수정 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Diamond Fragment (다이아몬드 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Lorath's Barding (로라스의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Avarice's Gilded Horn (아바리스의 도금된 뿔)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Equuleus Form (조랑말자리 형상)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Primordial Chitin (태고의 갑각)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Grey Steed (회색 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Kehjistani Tack (케지스탄 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Mottled Steed (얼룩덜룩한 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of Rings (반지 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Iron Cilice (무쇠 마미단)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Caparison of Faith (신념의 성복)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Bonemail (뼈 쇠사슬 갑옷)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Lamplighter's Tack (등지기의 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Trade Consortium Tack (교역 협의회 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Flesh-made Barb (살로 만든 가시)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Skull Fragment (해골 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Sapphire Fragment (사파이어 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Hawezar Barding (하웨자르 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Killer's Boots (살해자의 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Killer's Hands (살해자의 손)
+   - 클래스 : 
+   - 부위 : 손
+ - Collection of Two-Handed Weapons (양손 무기 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Phantom Barding (환영의 마갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Klath-Ulna's Tithe (클라스울나의 헌금)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Pachyderm Full-plate (후피동물 전신 판갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - First Journey Cache (첫 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Topaz Fragment (토파즈 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Signal Horn (신호 나팔)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Pale Tack (창백한 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - TradingTestItem (TradingTestItem)
+   - 클래스 : 
+   - 부위 : 
+ - Reins of the Seal Brown Steed (흑갈색 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Horse Armor (말 방어구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Cavalier's Steed (기사의 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Cruel Assassin's Saddlebag (잔혹한 암살자의 안장 가방)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Brutal Wizard's Standard (냉혹한 마법사의 깃발)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Assassin's Satchel (암살자의 가방)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Hell's Caparison (지옥의 성장)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Blackwater Coat (검은물 외투)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Palatial Splendor (호화로운 광채)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Ruby Fragment (루비 조각)
+   - 클래스 : 
+   - 부위 : 
+ - Midwinter Nightmare Spoils (한겨울 악몽 전리품)
+   - 클래스 : 
+   - 부위 : 
+ - Decaying Shaman's Skull (부패한 영매의 두개골)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Steppe Tack (평원 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Reins of the Trapper's Steed (덫 사냥꾼의 군마 고삐)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of Gauntlets (팔목 장갑 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Scales of the Dead Sea (사해의 비늘)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Elemental Heart (정령의 심장)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Overgrown Caparison (우거진 성복)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Darkness Vanguard (어둠 선봉대)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Second Journey Cache (두 번째 여정 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Old Blanket (낡은 담요)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Spree Killer's Guise (연쇄 살해자의 허울)
+   - 클래스 : 
+   - 부위 : 머리
+ - Collection of Chestplates (가슴 판갑 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of Leg Guards (다리 보호구 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of Amulets (목걸이 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Trade Consortium Strongbox (교역 협의회 보물함)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Netherworld Harness (황천의 마구)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Carnivore Bloodwell (육식동물 피 웅덩이)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Blood-money Finery (피투성이 돈 장식)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Apparition Cage (환영 우리)
+   - 클래스 : 
+   - 부위 : 노획품
+ - The Golden Lantern (황금 등불)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Mantle of Heavenly Opulence (천상의 풍요 어깨걸이)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Coral Plate (산호 판갑)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Broken Climbing Cleats (망가진 등반용 밑창)
+   - 클래스 : 
+   - 부위 : 알 수 없음
+ - Bloodmare Coat (피의 말 외투)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - The Black Trophy (검은 노획품)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Otherworld Standard (이계의 깃발)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Genzaniku Spike (겐자니쿠 쐐기)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Alchemical Mischief (연금술의 해악)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Magnificent Brigandine Caparison (웅장한 미늘 성복)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Glaring Madness (번뜩이는 광기)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Lantern of the Great Isle (큰 섬의 등불)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Arcane Dust (신비한 가루)
+   - 클래스 : 
+   - 부위 : 
+ - Major Ley Essence (Major Ley Essence)
+   - 클래스 : 
+   - 부위 : 
+ - Scrap Leather (Scrap Leather)
+   - 클래스 : 
+   - 부위 : 
+ - Event Reward Cache (이벤트 보상 보관함)
+   - 클래스 : 
+   - 부위 : 
+ - Spree Killer's Boots (연쇄 살해자의 장화)
+   - 클래스 : 
+   - 부위 : 발
+ - Spree Killer's Vest (연쇄 살해자의 조끼)
+   - 클래스 : 
+   - 부위 : 몸통
+ - Spree Killer's Hands (연쇄 살해자의 손)
+   - 클래스 : 
+   - 부위 : 손
+ - Spree Killer's Leggings (연쇄 살해자의 각반)
+   - 클래스 : 
+   - 부위 : 다리
+ - Collection of Helms (투구 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of Boots (장화 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Collection of One-handed Weapons (한손 무기 수집품)
+   - 클래스 : 
+   - 부위 : 
+ - Faithless Cage (불신의 우리)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Golden Sextant (황금 육분의)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Cutpurse Shawl (소매치기 숄)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - Sanctus (상투스)
+   - 클래스 : 
+   - 부위 : 노획품
+ - The Jin Bayt (진 베이트)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Purse of Desert Wonder (사막의 신비 주머니)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Umbral Tatters (어스름 누더기)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Tenebrous Arms (음침한 팔)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Terrestrial Nebula (지상의 성운)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Sphere Quantification (정량화된 구체)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Lyssa's Coat (리사의 외투)
+   - 클래스 : 
+   - 부위 : 탈것 방어구
+ - The One Beyond Reason (이성을 잃은 자)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Jade Dragon's Pearl (옥룡의 진주)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Heart's Desire (심장의 욕망)
+   - 클래스 : 
+   - 부위 : 노획품
+ - Vampiric Alchemy Supplies (흡혈귀 연금술 도구)
+   - 클래스 : 
+   - 부위 : 
+ - Vampiric Crafting Supplies (흡혈귀 제작 도구)
+   - 클래스 : 
+   - 부위 : 
+
